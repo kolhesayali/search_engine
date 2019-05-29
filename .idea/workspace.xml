@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c0ac4d9-508c-4db0-a353-e53f60340021" name="Default Changelist" comment="" />
+    <list default="true" id="4c0ac4d9-508c-4db0-a353-e53f60340021" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,13 +14,13 @@
     <session id="-854334299">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.3" value="6" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -82,7 +84,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/search_engine" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="ef8f1269-349b-48a4-a89b-9322236a05e0" />
@@ -124,7 +126,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="flask&#9;null&#9;null" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -223,7 +225,7 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="5000" />
     <ignored-roots>
-      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/search_engine" />
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
